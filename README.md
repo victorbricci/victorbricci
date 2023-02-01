@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/victorbricci/fb4fdedd8f0c365b5c9ec3abd8653598/raw/04f1a5093ba6d2fe4746a0e8a710c3954c884272/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/victorbricci/fb4fdedd8f0c365b5c9ec3abd8653598/raw/a73ada80e79d5f6870d1a07d425620accac704b5/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Victor Ricci</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorbricci&color=yellow" alt="Profile views" /> </p>
 
